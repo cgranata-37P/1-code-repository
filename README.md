@@ -19,3 +19,5 @@ To provide a sample code for refactoring an existing codebase to meet accessibil
 ![alt "Code Refactoring"](https://github.com/cgranata-37P/1-code-repository/blob/main/assets/images/CodeRefactoring2.PNG)
 
 ![alt "Code Refactoring"](https://github.com/cgranata-37P/1-code-repository/blob/main/assets/images/CodeRefactoring3.PNG)
+
+![alt "Code Refactoring"](https://github.com/cgranata-37P/1-code-repository/blob/main/assets/images/CodeRefactoring4.PNG)
