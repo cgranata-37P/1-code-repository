@@ -4,4 +4,8 @@
 
 * I learned that accessibility standards can be met with proper use and structure of semantic HTML elements and accessible alt attributes.
 
-![alt text](assets/images/screenshot.png)
+![alt "Code Refactoring"](https://github.com/cgranata-37P/1-code-repository/blob/main/assets/images/CodeRefactoring1.PNG)
+
+![alt "Code Refactoring"](https://github.com/cgranata-37P/1-code-repository/blob/main/assets/images/CodeRefactoring2.PNG)
+
+![alt "Code Refactoring"](https://github.com/cgranata-37P/1-code-repository/blob/main/assets/images/CodeRefactoring3.PNG)
